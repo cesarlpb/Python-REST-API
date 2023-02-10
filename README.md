@@ -2,6 +2,9 @@
 Ejemplos de APIs REST con Python y algunos frameworks
 
 TODO: actualizar documentación hasta la fecha.
+## Instalaciones
+
+- Postman: [Descarga](https://www.postman.com/downloads/)
 
 Basado en el [post de Real Python](https://realpython.com/api-integration-in-python).
 ## Librería Requests
